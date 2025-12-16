@@ -1,6 +1,7 @@
 db.sql
-passwords.txt
+
 *.log
 node_module/
 !important.log
 about.html
+passwords.txt
