@@ -7,4 +7,4 @@ The best ways are :
 - Code
 - Repeat 
 Thankyou!
-Summary that is nice repo
+Summary that is nice repostory!
